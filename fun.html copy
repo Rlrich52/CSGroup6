@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Valeria</title>
+</head>
+<body text="green">
+    <h1 style="background-color:yellow">Valeria Ramirez</h1>
+    <h3 style="background-color:aquamarine">NJIT vr393 Architecture Program</h3>
+<p>My name is Valeria and I go to college.<br> I enjoy hanging out with friends.<br> I also really enjoy staying at home with my cat.<br> I am excited for this new school year.<br> I hope to meet many different people.<br></p>
+<a href="https://www.njit.edu/">NJIT</a>
+<img width="320" height="350" src="rosie.png">
+</html>
