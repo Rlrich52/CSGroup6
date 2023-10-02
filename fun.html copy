@@ -9,4 +9,70 @@
 <p>My name is Valeria and I go to college.<br> I enjoy hanging out with friends.<br> I also really enjoy staying at home with my cat.<br> I am excited for this new school year.<br> I hope to meet many different people.<br></p>
 <a href="https://www.njit.edu/">NJIT</a>
 <img width="320" height="350" src="rosie.png">
+<table border="1" width="200"> 
+    <tr>
+        <td>Education</td>
+        <td>Experience</td>
+        <td>Skills</td>
+    </tr>    
+    <tr>
+        <td>JMSA</td>
+        <td>programs at NJIT</td>
+        <td>Patient</td>
+    </tr>    
+    <tr>
+        <td>NJIT</td>
+        <td>Delaware North</td>
+        <td>Determined</td>
+    </tr>    
+    <tr>
+        <td>cool</td>
+        <td>random</td>
+        <td>fact</td>
+    </tr>    
+    <tr>
+        <td>I</td>
+        <td>love</td>
+        <td>cats</td>
+    </tr>    
+</table>
+<form>
+    <label>username</label>
+    <input type="text" name="abc" placeholder="Enter username">
+    <label>first name</label>
+    <input type="text" name="abc" placeholder="Enter First Name">
+    <label>last name</label>
+    <input type="text" name="abc" placeholder="Enter Last Name">
+    <label>email</label>
+    <input type="text" name="abc" placeholder="Enter email">
+    <label for="math">
+        <input id="math" type="checkbox" name="math">
+Math
+     <label for="Architecture">
+         <input id="Architecture" type="checkbox" name="Architecture">
+Architecture
+     <label for="Computer Science">
+         <input id="Computer Science" type="checkbox" name="Computer Science">
+Computer Science
+    </label>
+    <label for="myradioId" class="radio">
+        <input type="radio" name="myradiofield" id="myradioid" class="radio__input">
+        <div class="radio__radio"></div>
+        Math
+    <label for="myradioId" class="radio">
+        <input type="radio" name="myradiofield" id="myradioid" class="radio__input">
+        <div class="radio__radio"></div>
+        Architecture
+    <label for="myradioId" class="radio">
+        <input type="radio" name="myradiofield" id="myradioid" class="radio__input">
+        <div class="radio__radio"></div>
+        Computer Science
+    </label>
+    <ul>
+        <li>Arch 195</li>
+        <li>Arch 110</li>
+        <li>Computer Programing</li>
+        <Li>Math 107</Li>
+    </ul>
+</form>
 </html>
