@@ -2,6 +2,12 @@
 <html>
 <head>
     <title>Valeria</title>
+    <meta charset="UTF-8">
+    <style>
+       td{
+            padding:10px
+        }
+    </style>
 </head>
 <body text="green">
     <h1 style="background-color:yellow">Valeria Ramirez</h1>
@@ -9,7 +15,7 @@
 <p>My name is Valeria and I go to college.<br> I enjoy hanging out with friends.<br> I also really enjoy staying at home with my cat.<br> I am excited for this new school year.<br> I hope to meet many different people.<br></p>
 <a href="https://www.njit.edu/">NJIT</a>
 <img width="320" height="350" src="rosie.png">
-<table border="1" width="200"> 
+<table border="1" width="200" bgcolor="grey"> 
     <tr>
         <td>Education</td>
         <td>Experience</td>
@@ -75,4 +81,7 @@ Computer Science
         <Li>Math 107</Li>
     </ul>
 </form>
+<img width="150" height="150" src="download-3.png" border:5px solid red>
+<img width="150" height="150" src="download-4.png">
+<img width="150" height="150" src="download-5.png">
 </html>
