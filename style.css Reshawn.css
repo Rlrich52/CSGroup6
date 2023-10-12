@@ -1,0 +1,39 @@
+/* styles.css */
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 100px;
+  }
+  
+  th {
+    background-color: rgb(187, 15, 158);
+    border: 2px solid black;
+    padding: 10px;
+  }
+  
+  td {
+    border: 2px solid black;
+    padding: 10px;
+  }
+  
+  .img1, .img2, .img3 {
+    width: 150px;
+    height: 150px;
+    border: 5px dashed red;
+    padding: 30px;
+  }
+  
+  .img1 {
+    width: 50%; /* Set width in points*/
+    height: 50%; /*Set height in points*/
+  }
+  
+  .img2 {
+    width: 100pt; /* Set width in points */
+    height: 100pt; /* Set height in points */
+  }
+  
+  .img3 {
+    width: 2in; /* Set width in inches */
+    height: 2in; /* Set height in inches */
+  }
