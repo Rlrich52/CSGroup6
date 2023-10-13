@@ -1,0 +1,36 @@
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 100px;
+}
+
+th {
+    background-color: lightgray;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+td {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.img1, .img2, .img3 {
+    width: 150px;
+    height: 150px;
+    border: 5px dashed red;
+    padding: 30px;
+}
+
+.img1 {
+    width: 50%; 
+}
+
+.img2 {
+    width: 100pt;
+}
+
+.img3 {
+    width: 2in; 
+}
