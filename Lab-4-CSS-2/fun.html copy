@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Valeria</title>
+    <meta charset="UTF-8">
+    <style>
+       p{text-align:center}
+       p{text-transform: capitalize;}
+       p{font-family:monospace;}
+       p{font-size: 25px;}
+       span{
+        text-decoration:underline;
+       }
+    </style>
+</head>
+<body text="green">
+    <ul>
+        <li><a>item-1</a></li>
+        <li><a>item-2</a></li>
+        <li><a>item-3</a></li>
+    </ul>
+    <h1 style="background-color:yellow">Valeria Ramirez</h1>
+    <h3 style="background-color:aquamarine">NJIT vr393 Architecture Program</h3>
+<p><span><My name is Valeria and I go to college.<br> I enjoy hanging out with friends.<br> I also really enjoy staying at home with my cat.<br> I am excited for this new school year.<br> I hope to meet many different people.<br></span></p></body>
+<p1>This is my paragraph.<br>Computer programing is not what I expected.<br>I thougt I would dislike it but I actually enjoy it.<br>The school year has also not been what I expected.<br>However, I am just sat in enjoying the ride.</p1>
+<a href="https://www.njit.edu/">NJIT</a>
+<img width="320" height="350" src="rosie.png">
+<table border="1" width="200" bgcolor="grey"> 
+    <tr>
+        <td>Education</td>
+        <td>Experience</td>
+        <td>Skills</td>
+    </tr>    
+    <tr>
+        <td>JMSA</td>
+        <td>programs at NJIT</td>
+        <td>Patient</td>
+    </tr>    
+    <tr>
+        <td>NJIT</td>
+        <td>Delaware North</td>
+        <td>Determined</td>
+    </tr>    
+    <tr>
+        <td>cool</td>
+        <td>random</td>
+        <td>fact</td>
+    </tr>    
+    <tr>
+        <td>I</td>
+        <td>love</td>
+        <td>cats</td>
+    </tr>    
+</table>
+<form>
+    <label>username</label>
+    <input type="text" name="abc" placeholder="Enter username">
+    <label>first name</label>
+    <input type="text" name="abc" placeholder="Enter First Name">
+    <label>last name</label>
+    <input type="text" name="abc" placeholder="Enter Last Name">
+    <label>email</label>
+    <input type="text" name="abc" placeholder="Enter email">
+    <label for="math">
+        <input id="math" type="checkbox" name="math">
+Math
+     <label for="Architecture">
+         <input id="Architecture" type="checkbox" name="Architecture">
+Architecture
+     <label for="Computer Science">
+         <input id="Computer Science" type="checkbox" name="Computer Science">
+Computer Science
+    </label>
+    <label for="myradioId" class="radio">
+        <input type="radio" name="myradiofield" id="myradioid" class="radio__input">
+        <div class="radio__radio"></div>
+        Math
+    <label for="myradioId" class="radio">
+        <input type="radio" name="myradiofield" id="myradioid" class="radio__input">
+        <div class="radio__radio"></div>
+        Architecture
+    <label for="myradioId" class="radio">
+        <input type="radio" name="myradiofield" id="myradioid" class="radio__input">
+        <div class="radio__radio"></div>
+        Computer Science
+    </label>
+    <ul>
+        <li>Arch 195</li>
+        <li>Arch 110</li>
+        <li>Computer Programing</li>
+        <Li>Math 107</Li>
+    </ul>
+</form>
+<img width="150" height="150" src="download-3.png" border:5px solid red>
+<img width="150" height="150" src="download-4.png">
+<img width="150" height="150" src="download-5.png">
+</html>
