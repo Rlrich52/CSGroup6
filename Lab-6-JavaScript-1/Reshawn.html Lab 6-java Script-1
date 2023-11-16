@@ -51,34 +51,48 @@
     </style>
 </head>
 <body style="color: rgb(255, 106, 0);">
-    <script>
-        // Task-1
-        let num1 = 20;
-        let num2 = 5;
-
-        console.log("Sum:", num1 + num2);
-        console.log("Difference:", num1 - num2);
-        console.log("Product:", num1 * num2);
-
-        // Task-2
-        let score = 85;
-
-        function calculateGrade(score) {
-            if (score >= 90) {
-                console.log("Grade: A");
-            } else if (score >= 80 && score <= 89) {
-                console.log("Grade: B");
-            } else if (score >= 70 && score <= 79) {
-                console.log("Grade: C");
-            } else if (score >= 60 && score <= 69) {
-                console.log("Grade: D");
-            } else {
-                console.log("Grade: F");
-            }
-        }
-
-        calculateGrade(score);
-    </script>    
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>JavaScript Tasks</title>
+        </head>
+        <body>
+        
+            <script>
+                // Task-1
+                let num1 = 10;
+                let num2 = 5;
+        
+                // Calculate and display the sum, difference, and product
+                console.log("Sum:", num1 + num2);
+                console.log("Difference:", num1 - num2);
+                console.log("Product:", num1 * num2);
+        
+                // Task-2
+                let score = 85;
+        
+                // Function to calculate and display the grade
+                function calculateGrade(score) {
+                    if (score >= 90) {
+                        console.log("Grade: A");
+                    } else if (score >= 80 && score <= 89) {
+                        console.log("Grade: B");
+                    } else if (score >= 70 && score <= 79) {
+                        console.log("Grade: C");
+                    } else if (score >= 60 && score <= 69) {
+                        console.log("Grade: D");
+                    } else {
+                        console.log("Grade: F");
+                    }
+                }
+        
+                // Call the function with the provided score
+                calculateGrade(score);
+            </script>
+        
+        </body>
+        </html>   
     <html>
     <body style="background-color: rgb(90, 205, 240);color: rgb(255, 255, 255);"></body>
         
